@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "App/1.0.0": {
+        "dependencies": {
+          "NFluent": "2.6.0"
+        },
+        "runtime": {
+          "App.dll": {}
+        }
+      },
+      "NFluent/2.6.0": {
+        "runtime": {
+          "lib/netstandard2.0/NFluent.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NFluent/2.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LV6KcMpSPqVbeziXkPjcPFHrnIVB3VjisQ3Osw2Z60mV5ERxLV+Xtfb8+JUoV6I4zYWusj9mw3tpYe524V8H9w==",
+      "path": "nfluent/2.6.0",
+      "hashPath": "nfluent.2.6.0.nupkg.sha512"
+    }
+  }
+}
