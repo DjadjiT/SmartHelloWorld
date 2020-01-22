@@ -5,7 +5,7 @@ using App.interfaces;
 
 namespace App.implementation
 {
-    class SmartHelloWorld 
+    public class SmartHelloWorld 
     {
         public static string WriteAGreetings(string name, DateTimeImpl date)
         {

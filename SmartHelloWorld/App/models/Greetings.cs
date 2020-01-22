@@ -1,8 +1,8 @@
-﻿enum Greetings
+﻿public enum Greetings
 {
     Good,
     morning,
-    afterNoon,
+    afternoon,
     night,
     world
 }

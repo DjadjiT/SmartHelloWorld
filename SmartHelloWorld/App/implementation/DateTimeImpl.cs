@@ -5,7 +5,7 @@ using App.interfaces;
 
 namespace App.implementation
 {
-    class DateTimeImpl : IDateTime
+    public class DateTimeImpl : IDateTime
     {
         public int hour;
 
@@ -34,7 +34,7 @@ namespace App.implementation
                 return Greetings.morning;
             }else if(this.hour< (int) TimeOfDay.Night && this.hour >= (int) TimeOfDay.AfterNoon)
             {
-                return Greetings.afterNoon;
+                return Greetings.afternoon;
             }else
             {
                 return Greetings.night;
