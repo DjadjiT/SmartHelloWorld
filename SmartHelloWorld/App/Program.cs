@@ -7,7 +7,9 @@ namespace App
     {
         static void Main(string[] args)
         {
-            string str = SmartHelloWorld.WriteAGreetings("Djadji", new DateTimeImpl(13));
+            Console.WriteLine("Enter a name :");
+            String name = System.Console.ReadLine();
+            string str = SmartHelloWorld.WriteAGreetings(name, new DateTimeImpl());
             Console.WriteLine(str);
         }
     }

@@ -1353,6 +1353,9 @@
         }
       },
       "App/1.0.0": {
+        "dependencies": {
+          "NFluent": "2.6.0"
+        },
         "runtime": {
           "App.dll": {}
         }

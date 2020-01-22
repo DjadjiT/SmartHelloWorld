@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\djxduc\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\djxduc\\.nuget\\packages"
+      "C:\\Users\\djxdu\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\djxdu\\.nuget\\packages"
     ]
   }
 }

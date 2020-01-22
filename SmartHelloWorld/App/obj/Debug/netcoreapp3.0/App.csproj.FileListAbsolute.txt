@@ -35,3 +35,16 @@ C:\Users\djxduc\Desktop\clean code\SmartHelloWorld\App\obj\Debug\netcoreapp3.0\A
 C:\Users\djxduc\Desktop\clean code\SmartHelloWorld\App\obj\Debug\netcoreapp3.0\App.csproj.CopyComplete
 C:\Users\djxduc\Desktop\clean code\SmartHelloWorld\App\obj\Debug\netcoreapp3.0\App.dll
 C:\Users\djxduc\Desktop\clean code\SmartHelloWorld\App\obj\Debug\netcoreapp3.0\App.pdb
+C:\Users\djxdu\SmartHelloWorld\SmartHelloWorld\App\bin\Debug\netcoreapp3.0\App.exe
+C:\Users\djxdu\SmartHelloWorld\SmartHelloWorld\App\bin\Debug\netcoreapp3.0\App.deps.json
+C:\Users\djxdu\SmartHelloWorld\SmartHelloWorld\App\bin\Debug\netcoreapp3.0\App.runtimeconfig.json
+C:\Users\djxdu\SmartHelloWorld\SmartHelloWorld\App\bin\Debug\netcoreapp3.0\App.runtimeconfig.dev.json
+C:\Users\djxdu\SmartHelloWorld\SmartHelloWorld\App\bin\Debug\netcoreapp3.0\App.dll
+C:\Users\djxdu\SmartHelloWorld\SmartHelloWorld\App\bin\Debug\netcoreapp3.0\App.pdb
+C:\Users\djxdu\SmartHelloWorld\SmartHelloWorld\App\bin\Debug\netcoreapp3.0\NFluent.dll
+C:\Users\djxdu\SmartHelloWorld\SmartHelloWorld\App\obj\Debug\netcoreapp3.0\App.csprojAssemblyReference.cache
+C:\Users\djxdu\SmartHelloWorld\SmartHelloWorld\App\obj\Debug\netcoreapp3.0\App.AssemblyInfoInputs.cache
+C:\Users\djxdu\SmartHelloWorld\SmartHelloWorld\App\obj\Debug\netcoreapp3.0\App.AssemblyInfo.cs
+C:\Users\djxdu\SmartHelloWorld\SmartHelloWorld\App\obj\Debug\netcoreapp3.0\App.csproj.CopyComplete
+C:\Users\djxdu\SmartHelloWorld\SmartHelloWorld\App\obj\Debug\netcoreapp3.0\App.dll
+C:\Users\djxdu\SmartHelloWorld\SmartHelloWorld\App\obj\Debug\netcoreapp3.0\App.pdb
